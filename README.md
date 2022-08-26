@@ -57,6 +57,16 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
+
+## View Examples 
+
+![Uploading tela-inicial.png…]()
+![tela-inicial-mobile](https://user-images.githubusercontent.com/88116603/186789298-b68f744b-b138-4131-8c7b-1ea74ab4ae9d.png)
+![tela-tecnologia](https://user-images.githubusercontent.com/88116603/186789306-d8a00a9e-236d-431a-95d9-059a4e3350a8.png)
+![tela-dashboard](https://user-images.githubusercontent.com/88116603/186789317-d0c1d1cd-1565-427c-8d23-40115094a067.png)
+
+
+
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
