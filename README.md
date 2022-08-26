@@ -60,7 +60,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## View Examples 
 
-![Uploading tela-inicial.png…]()
+![tela-inicial](https://user-images.githubusercontent.com/88116603/186789463-da2f8bf4-6225-44aa-985c-ccf2d919471d.png)
 ![tela-inicial-mobile](https://user-images.githubusercontent.com/88116603/186789298-b68f744b-b138-4131-8c7b-1ea74ab4ae9d.png)
 ![tela-tecnologia](https://user-images.githubusercontent.com/88116603/186789306-d8a00a9e-236d-431a-95d9-059a4e3350a8.png)
 ![tela-dashboard](https://user-images.githubusercontent.com/88116603/186789317-d0c1d1cd-1565-427c-8d23-40115094a067.png)
